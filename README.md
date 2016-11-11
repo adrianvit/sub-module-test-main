@@ -1,2 +1,2 @@
-sub-module-test-main readme v1
+sub-module-test-main readme v2
 
