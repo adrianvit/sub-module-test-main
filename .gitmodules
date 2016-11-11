@@ -1,0 +1,6 @@
+[submodule "sub-module-test-dependency"]
+	path = sub-module-test-dependency
+	url = git@github.com:adrianvit/sub-module-test-dependency.git
+[submodule "sub-module-test-dependency-two"]
+	path = sub-module-test-dependency-two
+	url = git@github.com:adrianvit/sub-module-test-dependency-two.git
